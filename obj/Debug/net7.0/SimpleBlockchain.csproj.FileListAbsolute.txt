@@ -1,0 +1,14 @@
+D:\csrepo\SimpleBlockchain\obj\Debug\net7.0\SimpleBlockchain.GeneratedMSBuildEditorConfig.editorconfig
+D:\csrepo\SimpleBlockchain\obj\Debug\net7.0\SimpleBlockchain.AssemblyInfoInputs.cache
+D:\csrepo\SimpleBlockchain\obj\Debug\net7.0\SimpleBlockchain.AssemblyInfo.cs
+D:\csrepo\SimpleBlockchain\obj\Debug\net7.0\SimpleBlockchain.csproj.CoreCompileInputs.cache
+D:\csrepo\SimpleBlockchain\bin\Debug\net7.0\SimpleBlockchain.exe
+D:\csrepo\SimpleBlockchain\bin\Debug\net7.0\SimpleBlockchain.deps.json
+D:\csrepo\SimpleBlockchain\bin\Debug\net7.0\SimpleBlockchain.runtimeconfig.json
+D:\csrepo\SimpleBlockchain\bin\Debug\net7.0\SimpleBlockchain.dll
+D:\csrepo\SimpleBlockchain\bin\Debug\net7.0\SimpleBlockchain.pdb
+D:\csrepo\SimpleBlockchain\obj\Debug\net7.0\SimpleBlockchain.dll
+D:\csrepo\SimpleBlockchain\obj\Debug\net7.0\refint\SimpleBlockchain.dll
+D:\csrepo\SimpleBlockchain\obj\Debug\net7.0\SimpleBlockchain.pdb
+D:\csrepo\SimpleBlockchain\obj\Debug\net7.0\SimpleBlockchain.genruntimeconfig.cache
+D:\csrepo\SimpleBlockchain\obj\Debug\net7.0\ref\SimpleBlockchain.dll
